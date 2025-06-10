@@ -2,7 +2,7 @@
 
 heart_disease_model.pkl: trained logistic regression model saved using joblib  
 cardio_train.csv: Data set used for model training  
-heart_disease_prediction.ipynb: Jupyter notebook containing:  
+MainNotebook.ipynb: Jupyter notebook containing:  
     Data exploration and visualization  
     Feature selection and preprocessing  
     Model training and evaluation  
