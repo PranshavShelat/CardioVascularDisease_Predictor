@@ -9,7 +9,7 @@ MainNotebook.ipynb: Jupyter notebook containing:
     User input and prediction logic  
 
 **How to run:**  
-Open notebook `"heart_disease_prediction.ipynb"` in Jupyter or Google Colab  
+Open notebook `"MainNotebook.ipynb"` in Jupyter or Google Colab  
 Import libraries and run all the cells  
 
 **Load model with:**  
